@@ -1,0 +1,430 @@
+*** FATAL INTERNAL ERROR in "Ready" ***
+Date: May 24 2017 11:20 PM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 3:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Previous Operations:
+    Text - sz:108:1639 - slFr:99:8:1479 - slTo:99:8:1479 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:13:1484 - slTo:99:13:1484 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:24:1495 - slTo:99:24:1495 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:26:1497 - slTo:99:26:1497 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:32:1503 - slTo:99:32:1503 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:33:1504 - slTo:99:33:1504 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:51:1522 - slTo:99:51:1522 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:54:1525 - slTo:99:54:1525 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:56:1527 - slTo:99:56:1527 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:66:1537 - slTo:99:66:1537 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:99:67:1538 - slTo:99:67:1538 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:100:0:1539 - slTo:100:0:1539 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:100:8:1547 - slTo:100:8:1547 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:100:10:1549 - slTo:100:10:1549 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:101:0:1550 - slTo:101:0:1550 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:101:8:1558 - slTo:101:8:1558 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:101:9:1559 - slTo:101:9:1559 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:102:0:1560 - slTo:102:0:1560 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:102:8:1568 - slTo:102:8:1568 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:102:9:1569 - slTo:102:9:1569 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:0:1570 - slTo:103:0:1570 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:8:1578 - slTo:103:8:1578 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:14:1584 - slTo:103:14:1584 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:15:1585 - slTo:103:15:1585 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:26:1596 - slTo:103:26:1596 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:29:1599 - slTo:103:29:1599 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:35:1605 - slTo:103:35:1605 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:36:1606 - slTo:103:36:1606 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:54:1624 - slTo:103:54:1624 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:103:58:1628 - slTo:103:58:1628 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:104:0:1629 - slTo:104:0:1629 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:104:4:1633 - slTo:104:4:1633 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:104:5:1634 - slTo:104:5:1634 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:105:0:1635 - slTo:105:0:1635 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:105:1:1636 - slTo:105:1:1636 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:106:0:1637 - slTo:106:0:1637 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:107:0:1638 - slTo:107:0:1638 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+  CMD: COMMAND_MOVE/SELECT_WORD_NEXT
+    Move Word Next - Text: 261cdc0 - Select: 0
+    Text - sz:108:1639 - slFr:108:0:1639 - slTo:108:0:1639 - nlA:0
+    Line Starts: 105:1635 106:1637 107:1638 108:1639
+
+
+
+The environment has experienced an unexpected internal error.
+
+This error is caused by a bug in the environment and is not your fault!
+Details about the crash have been saved in the file "C:\Users\Aman\Desktop\Computer Science Projects\Java\panic.log".
+
+If possible, please e-mail this file to readybugs@hsa.on.ca
+
+Here are some details about the error:
+   Error = Ready has gone into an infinite loop.
+
+Ready Internal State: 108 109 108 108 1640 -842150609 1639 1639
+---
+--- (6051)
+   File = src\edtext.c
+   Line = 4672
+
+All unsaved open files will be saved with a ".sav" or ".sv#" extension.
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\WINDOWS\SYSTEM32\ntdll.dll
+    C:\WINDOWS\System32\KERNEL32.DLL
+    C:\WINDOWS\System32\KERNELBASE.dll
+    C:\Program Files (x86)\AVG\Antivirus\aswhookx.dll
+    C:\WINDOWS\System32\USER32.dll
+    C:\WINDOWS\System32\win32u.dll
+    C:\WINDOWS\System32\GDI32.dll
+    C:\WINDOWS\System32\gdi32full.dll
+    C:\WINDOWS\System32\comdlg32.dll
+    C:\WINDOWS\System32\msvcrt.dll
+    C:\WINDOWS\System32\combase.dll
+    C:\WINDOWS\System32\ucrtbase.dll
+    C:\WINDOWS\System32\RPCRT4.dll
+    C:\WINDOWS\System32\SspiCli.dll
+    C:\WINDOWS\System32\CRYPTBASE.dll
+    C:\WINDOWS\System32\bcryptPrimitives.dll
+    C:\WINDOWS\System32\sechost.dll
+    C:\WINDOWS\System32\shcore.dll
+    C:\WINDOWS\System32\SHLWAPI.dll
+    C:\WINDOWS\System32\SHELL32.dll
+    C:\WINDOWS\System32\cfgmgr32.dll
+    C:\WINDOWS\System32\windows.storage.dll
+    C:\WINDOWS\System32\powrprof.dll
+    C:\WINDOWS\System32\advapi32.dll
+    C:\WINDOWS\System32\kernel.appcore.dll
+    C:\WINDOWS\System32\profapi.dll
+    C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.14393.447_none_5507ded2cb4f7f4c\COMCTL32.dll
+    C:\WINDOWS\SYSTEM32\VERSION.dll
+    C:\WINDOWS\SYSTEM32\WINMM.dll
+    C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+    C:\WINDOWS\System32\IMM32.DLL
+    C:\WINDOWS\system32\uxtheme.dll
+    C:\WINDOWS\System32\MSCTF.dll
+    C:\WINDOWS\System32\OLEAUT32.dll
+    C:\WINDOWS\System32\msvcp_win.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\WINDOWS\system32\apphelp.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\WINDOWS\system32\dwmapi.dll
+    C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.14393.953_none_89c2555adb023171\comctl32.DLL
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\WINDOWS\System32\WS2_32.dll
+    C:\WINDOWS\system32\napinsp.dll
+    C:\WINDOWS\system32\pnrpnsp.dll
+    C:\WINDOWS\system32\NLAapi.dll
+    C:\WINDOWS\System32\mswsock.dll
+    C:\WINDOWS\SYSTEM32\DNSAPI.dll
+    C:\WINDOWS\System32\NSI.dll
+    C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+    C:\WINDOWS\System32\winrnr.dll
+    C:\Program Files (x86)\Bonjour\mdnsNSP.dll
+    C:\WINDOWS\System32\fwpuclnt.dll
+    C:\WINDOWS\SYSTEM32\bcrypt.dll
+    C:\Windows\System32\rasadhlp.dll
+    C:\WINDOWS\System32\ole32.dll
+    C:\WINDOWS\System32\clbcatq.dll
+    C:\WINDOWS\system32\propsys.dll
+    C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll
+    C:\WINDOWS\SYSTEM32\edputil.dll
+    C:\WINDOWS\SYSTEM32\WindowsCodecs.dll
+    C:\Windows\System32\thumbcache.dll
+    C:\WINDOWS\SYSTEM32\ntshrui.dll
+    C:\WINDOWS\SYSTEM32\srvcli.dll
+    C:\WINDOWS\SYSTEM32\cscapi.dll
+    C:\WINDOWS\System32\StructuredQuery.dll
+    C:\WINDOWS\SYSTEM32\policymanager.dll
+    C:\WINDOWS\SYSTEM32\msvcp110_win.dll
+    C:\WINDOWS\system32\dataexchange.dll
+    C:\WINDOWS\system32\d3d11.dll
+    C:\WINDOWS\system32\dcomp.dll
+    C:\WINDOWS\system32\dxgi.dll
+    C:\WINDOWS\system32\twinapi.appcore.dll
+    C:\WINDOWS\system32\Windows.Storage.Search.dll
+    C:\Users\Aman\AppData\Local\Microsoft\OneDrive\17.3.6743.1212\FileSyncShell.dll
+    C:\WINDOWS\SYSTEM32\WININET.dll
+    C:\Users\Aman\AppData\Local\Microsoft\OneDrive\17.3.6743.1212\MSVCP120.dll
+    C:\Users\Aman\AppData\Local\Microsoft\OneDrive\17.3.6743.1212\MSVCR120.dll
+    C:\Users\Aman\AppData\Local\Microsoft\OneDrive\17.3.6743.1212\LoggingPlatform.DLL
+    C:\Users\Aman\AppData\Local\Microsoft\OneDrive\17.3.6743.1212\Telemetry.dll
+    C:\WINDOWS\System32\PSAPI.DLL
+    C:\WINDOWS\SYSTEM32\WSOCK32.dll
+    C:\WINDOWS\SYSTEM32\Cabinet.dll
+    C:\WINDOWS\SYSTEM32\WINHTTP.dll
+    C:\WINDOWS\system32\mssprxy.dll
+    C:\WINDOWS\SYSTEM32\dbghelp.dll
+
+  0 .V PC=0023:770de5fc Ret=73ccae72 Frame=00197f38 Stack=00197ec8
+    Parameters (0x000009d4 0x00003a98 0x00000000 0x0019a7f4)
+    Unknown module, ZwWaitForSingleObject() + 0012 byte(s)
+  1 .V PC=0023:73ccae72 Ret=004162f5 Frame=00197f4c Stack=00197f40
+    Parameters (0x000009d4 0x00003a98 0x0019aa14 0x0019a8ac)
+    Unknown module, WaitForSingleObject() + 0018 byte(s)
+  2 .V PC=0023:004162f5 Ret=00415768 Frame=0019a7f4 Stack=00197f54
+    Parameters (0x00000001 0x000017a3 0x005fe7e0 0x00001240)
+    src\edfail.c, MyFailErrorBox (), Line 0987+0020 byte(s)
+  3 .V PC=0023:00415768 Ret=004427b2 Frame=0019a81c Stack=0019a7fc
+    Parameters (0x000017a3 0x005fe7e0 0x00001240 0x00000000)
+    src\edfail.c, EdFail_Fatal (), Line 0494+0027 byte(s)
+  4 .V PC=0023:004427b2 Ret=0043caf9 Frame=0019a870 Stack=0019a824
+    Parameters (0x0261cdc0 0x00000668 0x0261ce2c 0x0261ce30)
+    src\edtext.c, MyFindCharLocation (), Line 4674+0079 byte(s)
+  5 .V PC=0023:0043caf9 Ret=0040c1b8 Frame=0019a890 Stack=0019a878
+    Parameters (0x0261cdc0 0x0019a980 0x0019a9e8 0x0019a954)
+    src\edtext.c, EdText_GetSelectionLinesCols (), Line 0765+0030 byte(s)
+  6 .V PC=0023:0040c1b8 Ret=00409950 Frame=0019aa14 Stack=0019a898
+    Parameters (0x000608b8 0x00000000 0x00000000 0x0000006c)
+    src\eddisp.c, MyDisplayText (), Line 4335+0034 byte(s)
+  7 .V PC=0023:00409950 Ret=00408a70 Frame=0019aa7c Stack=0019aa1c
+    Parameters (0x000608b8 0x00000008 0x00161378 0x00000000)
+    src\eddisp.c, MyCommonMessageHandler (), Line 3763+0015 byte(s)
+  8 .V PC=0023:00408a70 Ret=769ed2b3 Frame=0019aaa4 Stack=0019aa84
+    Parameters (0x000608b8 0x00000008 0x00161378 0x00000000)
+    src\eddisp.c, MyTextDisplayWindowProcedure (), Line 1962+0025 byte(s)
+  9 .V PC=0023:769ed2b3 Ret=769ce88a Frame=0019aad0 Stack=0019aaac
+    Parameters (0x00408a15 0x000608b8 0x00000008 0x00161378)
+    Unknown module, SetManipulationInputTarget() + 0083 byte(s)
+ 10 .V PC=0023:769ce88a Ret=769ce4c0 Frame=0019abb8 Stack=0019aad8
+    Parameters (0x00408a15 0x00000000 0x00000008 0x00161378)
+    Unknown module, DispatchMessageW() + 2298 byte(s)
+ 11 .V PC=0023:769ce4c0 Ret=769d8b09 Frame=0019ac18 Stack=0019abc0
+    Parameters (0x00f67f90 0x00000000 0x00000008 0x00161378)
+    Unknown module, DispatchMessageW() + 1328 byte(s)
+ 12 .V PC=0023:769d8b09 Ret=770e08c6 Frame=0019ac58 Stack=0019ac20
+    Parameters (0x0019ac74 0x00000020 0x0019ad88 0x770e0810)
+    Unknown module, MsgWaitForMultipleObjectsEx() + 0777 byte(s)
+ 13 .V PC=0023:770e08c6 Ret=769ed2b3 Frame=0019acb0 Stack=0019ac60
+    Parameters (0x00141392 0x00000110 0x00161378 0x0019b360)
+    Unknown module, KiUserCallbackDispatcher() + 0054 byte(s)
+ 14 .V PC=0023:769ed2b3 Ret=769de462 Frame=0019acdc Stack=0019acb8
+    Parameters (0x76a47400 0x00141392 0x00000110 0x00161378)
+    Unknown module, SetManipulationInputTarget() + 0083 byte(s)
+ 15 .V PC=0023:769de462 Ret=769de3a5 Frame=0019ad00 Stack=0019ace4
+    Parameters (0x00000110 0x00161378 0x0019b360 0x68c74472)
+    Unknown module, MapDialogRect() + 3282 byte(s)
+ 16 .V PC=0023:769de3a5 Ret=769dd960 Frame=0019ad98 Stack=0019ad08
+    Parameters (0x00141392 0x00000110 0x00161378 0x0019b360)
+    Unknown module, MapDialogRect() + 3093 byte(s)
+ 17 .V PC=0023:769dd960 Ret=769dd884 Frame=0019ae20 Stack=0019ada0
+    Parameters (0x00d9de30 0x00000000 0x00000110 0x00161378)
+    Unknown module, MapDialogRect() + 0464 byte(s)
+ 18 .V PC=0023:769dd884 Ret=769ed2b3 Frame=0019ae40 Stack=0019ae28
+    Parameters (0x00141392 0x00000110 0x00161378 0x0019b360)
+    Unknown module, MapDialogRect() + 0244 byte(s)
+ 19 .V PC=0023:769ed2b3 Ret=769ce88a Frame=0019ae6c Stack=0019ae48
+    Parameters (0x769dd830 0x00141392 0x00000110 0x00161378)
+    Unknown module, SetManipulationInputTarget() + 0083 byte(s)
+ 20 .V PC=0023:769ce88a Ret=769f764b Frame=0019af54 Stack=0019ae74
+    Parameters (0xaca15e80 0x00007ffc 0x00000110 0x00161378)
+    Unknown module, DispatchMessageW() + 2298 byte(s)
+ 21 .V PC=0023:769f764b Ret=769dd202 Frame=0019afc0 Stack=0019af5c
+    Parameters (0x00d9de30 0x00000000 0x0019b360 0x00000000)
+    Unknown module, EndTask() + 33003 byte(s)
+ 22 .V PC=0023:769dd202 Ret=769dc19a Frame=0019b0d4 Stack=0019afc8
+    Parameters (0x769c0000 0x00893a10 0x00000000 0x00000000)
+    Unknown module, CallMsgFilterW() + 2946 byte(s)
+ 23 .V PC=0023:769dc19a Ret=76a4b2d7 Frame=0019b118 Stack=0019b0dc
+    Parameters (0x00000000 0x76a47400 0x0019b360 0x00000000)
+    Unknown module, CreateDialogIndirectParamAorW() + 0314 byte(s)
+ 24 .V PC=0023:76a4b2d7 Ret=76a48e3b Frame=0019b1e4 Stack=0019b120
+    Parameters (0x0019b360 0x00925660 0x00000000 0x008ebc50)
+    Unknown module, SoftModalMessageBox() + 8743 byte(s)
+ 25 .V PC=0023:76a48e3b Ret=76a48b4e Frame=0019b348 Stack=0019b1ec
+    Parameters (0x00925660 0x008ebc50 0x00000000 0x770b5c95)
+    Unknown module, MessageBoxW() + 0699 byte(s)
+ 26 .V PC=0023:76a48b4e Ret=76a48a9b Frame=0019b3cc Stack=0019b350
+    Parameters (0x00000000 0x00925660 0x008ebc50 0x00002010)
+    Unknown module, MessageBoxTimeoutW() + 0126 byte(s)
+ 27 .V PC=0023:76a48a9b Ret=76a4887b Frame=0019b400 Stack=0019b3d4
+    Parameters (0x00000000 0x0019c0e4 0x0019c094 0x00002010)
+    Unknown module, MessageBoxTimeoutA() + 0123 byte(s)
+ 28 .V PC=0023:76a4887b Ret=76a48848 Frame=0019b420 Stack=0019b408
+    Parameters (0x00000000 0x0019c0e4 0x0019c094 0x00002010)
+    Unknown module, MessageBoxExA() + 0027 byte(s)
+ 29 .V PC=0023:76a48848 Ret=00416029 Frame=0019b43c Stack=0019b428
+    Parameters (0x00000000 0x0019c0e4 0x0019c094 0x00002010)
+    Unknown module, MessageBoxA() + 0024 byte(s)
+ 30 .V PC=0023:00416029 Ret=00415768 Frame=0019dcec Stack=0019b444
+    Parameters (0x00000001 0x000017a3 0x005fe7e0 0x00001240)
+    src\edfail.c, MyFailErrorBox (), Line 0884+0029 byte(s)
+ 31 .V PC=0023:00415768 Ret=004427b2 Frame=0019dd14 Stack=0019dcf4
+    Parameters (0x000017a3 0x005fe7e0 0x00001240 0x00000000)
+    src\edfail.c, EdFail_Fatal (), Line 0494+0027 byte(s)
+ 32 .V PC=0023:004427b2 Ret=0043cbff Frame=0019dd68 Stack=0019dd1c
+    Parameters (0x0261cdc0 0x00000668 0x0261ce2c 0x0261ce30)
+    src\edtext.c, MyFindCharLocation (), Line 4674+0079 byte(s)
+ 33 .V PC=0023:0043cbff Ret=00408f26 Frame=0019dd80 Stack=0019dd70
+    Parameters (0x0261cdc0 0x0019dd98 0x0019dda8 0x00010774)
+    src\edtext.c, EdText_GetSelectionLocation (), Line 0825+0030 byte(s)
+ 34 .V PC=0023:00408f26 Ret=0040b3db Frame=0019ddac Stack=0019dd88
+    Parameters (0x000608b8 0x0019e240 0x00010774 0xcccccccc)
+    src\eddisp.c, MyCaretMove (), Line 2625+0019 byte(s)
+ 35 .V PC=0023:0040b3db Ret=004090f1 Frame=0019e1e0 Stack=0019ddb4
+    Parameters (0x000608b8 0x00000774 0x00000001 0x00010774)
+    src\eddisp.c, MyCommandHandler (), Line 3426+0009 byte(s)
+ 36 .V PC=0023:004090f1 Ret=00408a70 Frame=0019e240 Stack=0019e1e8
+    Parameters (0x000608b8 0x00000111 0x00010774 0x00000001)
+    src\eddisp.c, MyCommonMessageHandler (), Line 3487+0019 byte(s)
+ 37 .V PC=0023:00408a70 Ret=769ed2b3 Frame=0019e268 Stack=0019e248
+    Parameters (0x000608b8 0x00000111 0x00010774 0x00000001)
+    src\eddisp.c, MyTextDisplayWindowProcedure (), Line 1962+0025 byte(s)
+ 38 .V PC=0023:769ed2b3 Ret=769ce88a Frame=0019e294 Stack=0019e270
+    Parameters (0x00408a15 0x000608b8 0x00000111 0x00010774)
+    Unknown module, SetManipulationInputTarget() + 0083 byte(s)
+ 39 .V PC=0023:769ce88a Ret=769f764b Frame=0019e37c Stack=0019e29c
+    Parameters (0x00408a15 0x00000000 0x00000111 0x00010774)
+    Unknown module, DispatchMessageW() + 2298 byte(s)
+ 40 .V PC=0023:769f764b Ret=769db8e3 Frame=0019e3e8 Stack=0019e384
+    Parameters (0x00f67f90 0x00000000 0x00000001 0x00000001)
+    Unknown module, EndTask() + 33003 byte(s)
+ 41 .V PC=0023:769db8e3 Ret=004488da Frame=0019e40c Stack=0019e3f0
+    Parameters (0x000608b8 0x00000111 0x00010774 0x00000001)
+    Unknown module, SendMessageA() + 0131 byte(s)
+ 42 .V PC=0023:004488da Ret=769ed2b3 Frame=0019e444 Stack=0019e414
+    Parameters (0x002b14e2 0x00000111 0x00010774 0x00000000)
+    src\edwin.c, MyEditorWindowProcedure (), Line 1454+0032 byte(s)
+ 43 .V PC=0023:769ed2b3 Ret=769ce88a Frame=0019e470 Stack=0019e44c
+    Parameters (0x00448681 0x002b14e2 0x00000111 0x00010774)
+    Unknown module, SetManipulationInputTarget() + 0083 byte(s)
+ 44 .V PC=0023:769ce88a Ret=769ce4c0 Frame=0019e558 Stack=0019e478
+    Parameters (0x00448681 0x00000000 0x00000111 0x00010774)
+    Unknown module, DispatchMessageW() + 2298 byte(s)
+ 45 .V PC=0023:769ce4c0 Ret=769d8b09 Frame=0019e5b8 Stack=0019e560
+    Parameters (0x00d9dfc0 0x00000000 0x00000111 0x00010774)
+    Unknown module, DispatchMessageW() + 1328 byte(s)
+ 46 .V PC=0023:769d8b09 Ret=770e08c6 Frame=0019e5f8 Stack=0019e5c0
+    Parameters (0x0019e614 0x00000020 0x0019ff70 0x770e0810)
+    Unknown module, MsgWaitForMultipleObjectsEx() + 0777 byte(s)
+ 47 .V PC=0023:770e08c6 Ret=004031d4 Frame=0019e650 Stack=0019e600
+    Parameters (0x002b14e2 0x01350465 0x0019e678 0x0019e674)
+    Unknown module, KiUserCallbackDispatcher() + 0054 byte(s)
+ 48 .V PC=0023:004031d4 Ret=00403190 Frame=0019e668 Stack=0019e658
+    Parameters (0x0019e678 0x0019e6a0 0x000608b8 0x00000100)
+    src\ed.c, MyProcessMessage (), Line 1842+0041 byte(s)
+ 49 .V PC=0023:00403190 Ret=0040170f Frame=0019e698 Stack=0019e670
+    Parameters (0x0052cb00 0x0052cb00 0xcccccccc 0xcccccccc)
+    src\ed.c, MyProcessEvents (), Line 1818+0009 byte(s)
+
+
+------------------------------------------------------

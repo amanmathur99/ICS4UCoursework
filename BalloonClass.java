@@ -1,0 +1,220 @@
+// The DiamondClass Class
+// Second in a series of demonstration programs for introducing Java
+
+import hsa.Console;
+import java.awt.*;
+
+public class BalloonClass extends SkyShapesClass
+{
+    // global variables for this class
+    // encapsulated data
+    private int iWidth = 80;
+    private int iHeight = 100;
+    private int maxWidth = 300;
+    private int maxHeight = 300;
+    private int iCentreX = 100;
+    private int iCentreY = 100;
+    private int iTailLength = 100;
+    public boolean popped = false;
+    private boolean inside = false;
+    private boolean filled = true;
+
+
+    //constructors
+    public BalloonClass ()
+    {
+    }
+
+
+    public BalloonClass (int h, int w, int l)
+    {
+	iHeight = h;
+	iWidth = w;
+	iTailLength = l;
+    }
+
+
+    public BalloonClass (int h, int w, int l, int mw, int mh, int x, int y, boolean p, boolean i)
+    {
+	iHeight = h;
+	iWidth = w;
+	iTailLength = l;
+	maxWidth = mw;
+	maxHeight = mh;
+	iCentreX = x;
+	iCentreY = y;
+	popped = p;
+	inside = i;
+    }
+
+
+    // communicator methods
+    public int fib (int n)
+    {
+	if (n <= 1)
+	{
+	    return n;
+	}
+	else
+	{
+	    return fib (n - 1) + fib (n - 2);
+	}
+    }
+
+
+    public boolean getIsFilled ()
+    {
+	return filled;
+    }
+
+
+    public void setMaxWidth (int iMaxWidth)
+    {
+	maxWidth = iMaxWidth;
+    }
+
+
+    public void setMaxHeight (int iMaxHeight)
+    {
+	maxHeight = iMaxHeight;
+    }
+
+
+    public int getMaxWidth ()
+    {
+	return maxWidth;
+    }
+
+
+    public int getMaxHeight ()
+    {
+	return maxHeight;
+    }
+
+
+
+
+    public int getTail ()
+    {
+	return iTailLength;
+    }
+
+
+    public void setTail (int tail)
+    {
+	iTailLength = tail;
+    }
+
+
+
+
+    public void setPopped (boolean newPopped)
+    {
+	popped = newPopped;
+    }
+
+
+    public boolean getIsPopped ()
+    {
+	return popped;
+    }
+
+
+    public boolean getIsInside ()
+    {
+	return inside;
+    }
+
+
+    //procedures
+
+    public void draw (Console c)
+    {
+	if (popped == false)
+	{
+	    int upperLeftCornerX = iCentreX - (iWidth / 2);                                               //upper left coordinates
+	    int upperLeftCornerY = iCentreY - (iHeight / 2); //needed to draw the oval
+	    c.setColor (cColor); //set the console object's drawing colour
+	    c.fillOval (upperLeftCornerX, upperLeftCornerY, iWidth, iHeight);
+	    c.drawLine (iCentreX, iCentreY + iHeight / 2, iCentreX, iCentreY + iHeight / 2 + iTailLength);
+	}
+	else
+	{
+	    int upperLeftCornerX = iCentreX - (iWidth / 2);                                               //upper left coordinates
+	    int upperLeftCornerY = iCentreY - (iHeight / 2); //needed to draw the oval
+	    c.setColor (Color.white);
+	    c.fillOval (upperLeftCornerX, upperLeftCornerY, iWidth, iHeight);
+	    c.setColor (Color.black);
+	    c.drawStar (upperLeftCornerX, upperLeftCornerY, iWidth, iHeight);
+
+	}
+    }
+
+
+
+
+
+    public void pop (Console c)
+    {
+	popped = true;
+	erase (c);
+	draw (c);
+    }
+
+
+    public void grow (Console c)  //grow procedure
+    {
+
+	erase (c);
+	setHeight (iHeight + iHeight / 10);
+	setWidth (iWidth + iWidth / 10);
+	draw (c);
+	if (iWidth > maxWidth || iHeight > maxHeight)
+	{
+	    pop (c);
+
+	}
+	else
+	{
+	    delay (100);
+	    grow (c);
+	}
+
+    }
+
+
+    public void grow (Console c, int x)  //grow procedure #2
+    {
+
+	erase (c);
+	iHeight = (iHeight + iHeight / (100 / x));
+	iWidth = (iWidth + iWidth / (100 / x));
+	draw (c);
+	if (iWidth > maxWidth)
+	{
+	    pop (c);
+
+	}
+	else
+	{
+	    delay (100);
+	    grow (c, x);
+	}
+
+    }
+
+
+    public void isPointInside (Console c, int x, int y)
+    {
+	if (iCentreX - iWidth / 2 < x && x < iCentreX + iWidth && iCentreY - iHeight / 2 < y && y < iCentreY + iHeight / 2)
+	{
+	    pop (c);
+	}
+	else
+	{
+	    inside = false;
+	}
+    }
+}
+
+

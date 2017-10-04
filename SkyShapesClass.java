@@ -1,0 +1,121 @@
+// The DiamondClass Class
+// Second in a series of demonstration programs for introducing Java
+
+import hsa.Console;
+import java.awt.*;
+
+public abstract class SkyShapesClass
+{
+    // global variables for this class
+    // encapsulated data
+    public int iWidth = 80;
+    public int iHeight = 100;
+    public int iCentreX = 100;
+    public int iStringLength = 100;
+    public int iCentreY = 100;
+    public int iStringDirection = 1;
+    public Color cColor = Color.black;
+    public boolean filled = true;
+
+    //
+    public abstract void draw (Console c);
+
+    // communicator methods
+
+
+    public void setWidth (int iNewWidth)
+    {
+	iWidth = iNewWidth;
+    }
+
+
+    public void setHeight (int iNewHeight)
+    {
+	iHeight = iNewHeight;
+    }
+
+
+    public void setCenter (int iNewCentreX, int iNewCentreY)
+    {
+	iCentreX = iNewCentreX;
+	iCentreY = iNewCentreY;
+    }
+
+
+    public void setColor (Color cNewColor)
+    {
+
+	cColor = cNewColor;
+    }
+
+
+    public int getWidth ()
+    {
+	return iWidth;
+    }
+
+
+    public int getHeight ()
+    {
+	return iHeight;
+    }
+
+
+    public int getCenterX ()
+    {
+	return iCentreX;
+    }
+
+
+    public int getCenterY ()
+    {
+	return iCentreY;
+    }
+
+
+    public int getString ()
+    {
+	return iStringLength;
+    }
+
+
+    public void setString (int string)
+    {
+	iStringLength = string;
+    }
+
+
+    public Color getColor ()
+    {
+	return cColor;
+    }
+
+
+
+
+
+
+    //procedures
+
+
+    public void erase (Console c)
+    {
+	Color cOldColor = getColor ();
+	setColor (Color.white);
+	draw (c);
+	setColor (cOldColor);
+    }
+
+
+
+    public void delay (int iDelayTime)
+    {
+	long IFinalTime = System.currentTimeMillis () + iDelayTime;
+	do
+	{
+	}
+	while (IFinalTime >= System.currentTimeMillis ());
+    }
+}
+
+
